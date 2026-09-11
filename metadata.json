@@ -1,0 +1,6 @@
+{
+  "name": "Khushi Makeup Arts",
+  "description": "Professional bridal, engagement, party, Haldi, Mehendi and occasion makeup services in Siwan, Bihar, with home-service available.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
